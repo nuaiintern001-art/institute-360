@@ -1,0 +1,47 @@
+
+COLLEGE NAME:
+Rajalakshmi Institute of Technology (RIT)
+
+LOCATION:
+Bangalore Highway Road,
+Kuthambakkam, Chennai,
+Tamil Nadu - 600124, India.
+
+ABOUT THE COLLEGE:
+Rajalakshmi Institute of Technology is an autonomous engineering institution established in 2008. It is affiliated with Anna University and approved by AICTE. The college has NAAC A++ accreditation.
+
+UNDERGRADUATE PROGRAMMES:
+1. Computer Science and Engineering (CSE)
+2. Artificial Intelligence and Machine Learning (AI & ML)
+3. Artificial Intelligence and Data Science (AI & DS)
+4. Computer and Communication Engineering (CCE)
+5. Electronics and Communication Engineering (ECE)
+6. Mechanical Engineering
+7. Biotechnology
+8. VLSI Design and Technology
+9. Computer Science and Business Systems (CSBS)
+
+ACADEMIC FACILITIES:
+The institution provides laboratories, classrooms, research facilities and Future Tech Centres covering areas such as:
+- Artificial Intelligence
+- Cloud Computing and Cybersecurity
+- Internet of Things
+- Augmented and Virtual Reality
+- Data Science
+- Advanced Manufacturing
+- Electric Vehicles
+
+PLACEMENTS:
+RIT has a dedicated Training and Placement Cell that supports students with placement training and recruitment opportunities.
+
+ADMISSIONS CONTACT:
+Phone: 044-67181601
+Email: mail@ritchennai.edu.in
+
+IMPORTANT INSTRUCTIONS FOR THE CHATBOT:
+- Answer questions using the college information provided.
+- Use simple and understandable English.
+- Do not invent faculty names, fees, admission dates, phone numbers or placement statistics.
+- If information is unavailable, politely tell the user to contact the college.
+- For updated information, direct users to the official website:
+  https://www.ritchennai.edu.in/
